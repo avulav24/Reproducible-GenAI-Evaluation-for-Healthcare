@@ -14,6 +14,7 @@ from statistics import mode
 import traceback
 from typing import Tuple
 
+
 def generate_publicationMetadata(publication_data: pd.DataFrame) -> pd.DataFrame:
     """
     Extract required metadata columns from publication data.
