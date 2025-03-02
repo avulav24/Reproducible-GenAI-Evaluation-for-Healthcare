@@ -17,6 +17,7 @@ import statsmodels.api
 import traceback
 import json
 
+
 def get_ci(count: int, nobs: int):
     """
     Calculate the confidence interval for a proportion.
