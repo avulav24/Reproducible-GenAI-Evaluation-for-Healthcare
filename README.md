@@ -1,4 +1,8 @@
-# CK AI Data Files for Manuscript and Analysis
+# 📄 Published Paper
+Our journal paper is now published! [Read it here](https://academic.oup.com/jamiaopen/article/8/3/ooaf054/8163901)
+
+
+## CK AI Data Files for Manuscript and Analysis
 ## Table of Contents
 1. [Requirements](#requirements)
 2. [Installation](#installation)
